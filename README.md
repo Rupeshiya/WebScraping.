@@ -1,1 +1,17 @@
-# webScraper
+# Hackernews_web_Scraper
+This module is used to scrap the headings of hackernews website
+
+## To use this as a module in a project:-
+
+```
+    npm i hackernews_scraper
+  
+```
+After installion import this i.e require it in your project
+as given below:-
+
+```
+    var hackernews_scraper = require('hackernews_scraper')
+    
+```
+
