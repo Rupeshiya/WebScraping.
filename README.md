@@ -1,5 +1,5 @@
 # Projects on web scraping.
-## At first install dependencie as:-
+## At first install dependencies as:-
 ```
     npm install request
     npm install cheerio
