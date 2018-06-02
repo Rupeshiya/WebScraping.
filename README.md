@@ -1,5 +1,9 @@
 # Projects on web scraping.
-
+## At first install dependencie as:-
+```
+    npm install request
+    npm install cheerio
+```
 ## 1. Hackernews_web_Scraper
 This module is used to scrap the headings of hackernews website
 
